@@ -1,1 +1,3 @@
-theme: slate
+#Build settings:
+markdown: kramdown
+theme: minima
